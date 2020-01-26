@@ -1,0 +1,192 @@
+#fb{
+    width: 25px;
+    height: 25px;
+    background-image: url(../img/redes/facebook.png);
+    background-size: cover;
+}
+#tw{
+    width: 25px;
+    height: 25px;
+    background-image: url(../img/redes/twitter.png);
+    background-size: cover;
+}
+#wts{
+    width: 25px;
+    height: 25px;
+    background-image: url(../img/redes/whatsapp.png);
+    background-size: cover;
+}
+
+#li{
+    width: 25px;
+    height: 25px;
+    background-image: url(../img/redes/linkedin.png);
+    background-size: cover;
+}
+
+.redes{
+    margin-right: 15px;
+}
+
+#logo{
+    margin-left: 45px;
+    width: 90px;
+    height: 60px;
+    background-image: url(../img/logo.png);
+    background-size: cover;
+}
+
+.menu{
+    background-color: #43bed4;
+    width: 100%;
+}
+.dere{
+    float: right;
+}
+.lista{
+    width: max-content;
+    height: auto;
+    text-align: center;
+    margin-right: 100px;
+}
+
+.item{
+    height: 100%;
+    color:white;
+    font-size: 15px;
+    float: left;
+    display: block;
+    padding: 7px;
+}
+
+.item:hover{
+    background-color: white;
+    text-decoration:none;
+    color:#43bed4;
+}
+.item:hover .icon{
+    background-image: url(../img/gota.png);
+}
+
+.icon{
+    float: left;
+    margin-top: 1.5%;
+    margin-right: 8px;
+    width: 25px;
+    height: 25px;
+    background-image: url(../img/gota2.png);
+    background-size: 100%;
+}
+
+.obj{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.obj2{
+    width: 100%;
+
+}
+
+.almacen{
+    width: 70%;
+    height: 250px;
+    margin-left: 15%;
+    padding-top: 5%;
+}
+
+.almacen p{
+    float: left;
+    width: 60%;
+    font-size: 18px;
+    margin-left: 10%;
+}
+.almacen h4{
+    float: left;
+    margin-left: 10%;
+}
+
+.almacen img{
+    width: 30%;
+    margin-top: -5%;
+}
+
+ .almacen2{
+    width: 70%;
+    height: 250px;
+    margin-left: 15%;
+    padding-top: 5%;
+}
+
+.almacen2 p{
+   float: right;
+   width: 60%;
+   font-size: 18px;
+}
+.almacen2 h4{
+    margin-left: 40%;
+    
+}
+.almacen2 img{
+    width: 30%;
+    margin-top: -10%;
+    margin-left: 7%;
+}
+
+.titulo h3{
+    color: #43bed4;
+    font-size: 34px;
+    margin-top: 7%;
+    margin-left: 41%;
+}
+
+.productos{
+    width:70% ;
+    margin-left: 15%;
+
+}
+
+.productos h4{
+    margin-top: 15%;
+    color: white;
+    font-size: 30px;
+}
+.productos p{
+    float: left;
+    width: 62%;
+    font-size: 18px;
+    color: white;
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+.productos img{
+    margin-top: -18%;
+    float: left;
+    width: 38%;
+    height: 400px;
+}
+
+.mapa{
+    width: 80%;
+
+    margin-left: 10%;
+}
+.mapa h4{
+    font-size: 30px;
+    margin-top: 20%;
+    margin-left: 5%;
+}
+.mapa p{
+    margin-left: 5%;
+    float: left;
+    width: 30%;
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+.mapa div{
+    margin-left: 5%;
+    margin-top: -20%;
+    float: left;
+    width: 60%;
+
+}
