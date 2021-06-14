@@ -2,8 +2,6 @@ Titulo: Pagina Web de un Producto
 <br/>
 Descripcion: Pagina Web informativa
 <br/>
-Autor: Luis Enrique
-<br/>
 Creado:  20019 Diciembre
 <br/>
 Stack: PHP,HTML,CSS,JS
